@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Node
+node_modules/
+dist/
+frontend/node_modules/
+frontend/dist/
+
+# Uploads & DBs
+uploads/
+chroma_db/
+db/
+
+.env
+__pycache__/
+app/uploads/
+db/
+*.log
+chroma_db/
